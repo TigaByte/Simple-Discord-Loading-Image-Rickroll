@@ -4,5 +4,4 @@ A side that will when you send it your friends (via. Discord) will look like an 
 
 Please use this tool wisely and don't be evil :)
 
-
 https://tigabyte.github.io/Simple-Discord-Loading-Image-Rickroll
